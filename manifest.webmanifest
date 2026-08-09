@@ -1,0 +1,10 @@
+{
+  "name": "Chief Fit｜日常健身主页",
+  "short_name": "Chief Fit",
+  "description": "训练指导、逐组记录、饮食与身体趋势。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ed",
+  "theme_color": "#f5f3ed",
+  "orientation": "portrait-primary"
+}
